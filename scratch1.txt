@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+
+<body>
+The content of the body element is displayed in your browser.
+</body>
+
+
+<h2>Basic HTML Table</h2>
+
+<table style="width:100%">
+  <tr>
+    <th>Name</th>
+    <th>Favorite Coding Language</th>
+    <th>Travel Time to Mento Center</th>
+  </tr>
+  
+  <tr>
+    <td>Ryan Hayes</td>
+    <td>Python</td>
+    <td>45 minutes</td>
+    
+  <tr>
+    <td>Holden Caulfield</td>
+    <td>"Not I," said the cat.</td>
+    <td>"Oh, bother."</td>
+    
+</table>
+   
+
+
+
+
+
+</html>
+
+
